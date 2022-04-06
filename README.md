@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trito apriansyah</h1>
 <h3 align="center">saya suka javascript saya berasal dari indonesia</h3>
 
-<br>[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/tritoapriansyah)
+<br>[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31qmyrbvzzosewfl22eudbgoazvy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tritoapriansyah&label=Profile%20views&color=04ff00&style=flat-square" alt="tritoapriansyah" /> </p>
 
